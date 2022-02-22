@@ -1,0 +1,24 @@
+{
+  "name": "unicesumar-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord para o grupo de estudos de Engenharia de Software 2022 da Unicesumar",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielkinash1/unicesumar-bot.git"
+  },
+  "keywords": [],
+  "author": "Gabriel \"Kinash\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielkinash1/unicesumar-bot/issues"
+  },
+  "homepage": "https://github.com/gabrielkinash1/unicesumar-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
